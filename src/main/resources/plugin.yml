@@ -1,0 +1,12 @@
+name: PowerAdmin
+version: '${project.version}'
+main: org.luci.poweradmin.PowerAdmin
+api-version: '1.21'
+commands:
+  ban:
+    description: "Ban command"
+    usage: "/<command> [target]"
+permissions:
+  poweradmin.full.ban:
+    description: "Allows the player to use the ban command"
+    default: op

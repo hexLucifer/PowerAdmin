@@ -1,0 +1,46 @@
+ban_reasons:
+  slot_9:
+    material: "DIAMOND_SWORD"
+    name: "Cheating"
+    lore:
+      - "Using unauthorized modifications"
+  slot_10:
+    material: "IRON_HELMET"
+    name: "Griefing"
+    lore:
+      - "Destroying others' builds"
+  slot_11:
+    material: "GOLDEN_CHESTPLATE"
+    name: "Harassment"
+    lore:
+      - "Inappropriate behavior or language"
+  slot_12:
+    material: "LEATHER_LEGGINGS"
+    name: "Spamming"
+    lore:
+      - "Flooding chat with messages"
+  slot_13:
+    material: "CHAINMAIL_BOOTS"
+    name: "Abusing Bugs"
+    lore:
+      - "Exploiting bugs or glitches"
+  slot_14:
+    material: "BOW"
+    name: "Inappropriate Content"
+    lore:
+      - "Sharing offensive content"
+  slot_15:
+    material: "ARROW"
+    name: "Scamming"
+    lore:
+      - "Attempting to deceive others"
+  slot_16:
+    material: "TNT"
+    name: "Account Theft"
+    lore:
+      - "Stealing other players' accounts"
+  slot_17:
+    material: "GOLD_INGOT"
+    name: "Other"
+    lore:
+      - "Unspecified reason"
